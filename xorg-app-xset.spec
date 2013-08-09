@@ -1,11 +1,11 @@
 Summary:	xset application
 Name:		xorg-app-xset
-Version:	1.2.2
+Version:	1.2.3
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xset-%{version}.tar.bz2
-# Source0-md5:	d44e0057d6722b25d5a314e82e0b7e7c
+# Source0-md5:	dcd227388b57487d543cab2fd7a602d7
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
